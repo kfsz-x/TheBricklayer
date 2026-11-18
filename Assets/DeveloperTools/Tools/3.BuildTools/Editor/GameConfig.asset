@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6548340c8a1b1eb49ba9b171ca26fb3c, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  CompanyName: UnityCore
+  AppName: UnityCoreTemplate
+  ChannelName: 
+  VersionNum: 1.0
+  BundleVersionNum: 1
+  PackageName: com.unitycore.template
+  isSetImg: 0
+  isSetScreenLogo: 0
+  islockFPS: 0
+  isRelease: 0
+  is32: 0
+  isBuildAab: 0
+  isOnlyBuild: 1
+  PT: 2
+  SDKPath:
+  - SDKName: 
+    SdkPath: 
+  - SDKName: 
+    SdkPath: 
+  - SDKName: 
+    SdkPath: 
+  TexAsset:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  KeyName: Key.jks
+  KeyPassWord: 

@@ -1,0 +1,14 @@
+{
+  "name": "UnityCore.Samples.Editor",
+  "rootNamespace": "UnityCore.Samples.Editor",
+  "includePlatforms": [
+    "Editor"
+  ],
+  "references": [
+    "UnityCore.Samples",
+    "UnityCore.Runtime",
+    "Unity.Addressables",
+    "Unity.Addressables.Editor",
+    "UnityEngine.UI"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "webgl_qg",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "mg-service server",
+    "build": "mg-service build",
+    "release": "mg-service release",
+    "watch": "mg-service watch"
+  }
+}

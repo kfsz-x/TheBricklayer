@@ -1,0 +1,2 @@
+{"name":"UnityCore.PlayTests","references":["UnityCore.Runtime","Unity.Addressables","Unity.ResourceManager","UnityEngine.UI"],"optionalUnityReferences":["TestAssemblies"]}
+

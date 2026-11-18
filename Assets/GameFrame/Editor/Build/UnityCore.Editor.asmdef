@@ -1,0 +1,3 @@
+{"name":"UnityCore.Editor","rootNamespace":"UnityCore.Editor","includePlatforms":["Editor"],"references":["UnityCore.Runtime","Unity.Addressables","Unity.Addressables.Editor","UnityEngine.UI"]}
+
+

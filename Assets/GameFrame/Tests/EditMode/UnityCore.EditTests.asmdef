@@ -1,0 +1,2 @@
+{"name":"UnityCore.EditTests","references":["UnityCore.Runtime","UnityEngine.UI"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}
+

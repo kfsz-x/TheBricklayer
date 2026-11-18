@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Template Samples
+  m_EditorClassIdentifier: 
+  m_GroupName: Template Samples
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c4192dfcbd44458419130c47d5c8e9a6
+  m_SerializeEntries:
+  - m_GUID: f44b06f6946012f4ea4997737e003301
+    m_Address: sample/cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6dbfe4e361871014e8a23b996c1b204d
+    m_Address: sample/click
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sample-audio
+  - m_GUID: 2b0f66bff492ea040b331501c551442f
+    m_Address: sample/music
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sample-audio
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a7526a9a1f500b942b22e97552d0c10a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fbefd0cbb7a98e4499b2e0f6a35a3cce, type: 2}
+    - {fileID: 11400000, guid: eee33873c52719547886c558458520bf, type: 2}

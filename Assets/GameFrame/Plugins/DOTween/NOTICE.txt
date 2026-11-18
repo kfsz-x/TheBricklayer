@@ -1,0 +1,4 @@
+DOTween by Daniele Giardini / Demigiant.
+The runtime DLL and accompanying XML are taken from the local UnityTemplate
+framework distribution. Use is subject to DOTween's terms.
+https://dotween.demigiant.com/license.php
